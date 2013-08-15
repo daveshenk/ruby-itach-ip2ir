@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Luke Mcildoon"]
   spec.email         = ["luke@twofiftyfive.net"]
   spec.description   = %q{Unofficial - Ruby interface to Global Cache's itach ip2ir infrared emitter devices}
-  spec.summary       = %q{TODO: Write a gem summary}
+  spec.summary       = %q{Send iTach commands via Ruby}
   spec.homepage      = ""
   spec.license       = "MIT"
 
